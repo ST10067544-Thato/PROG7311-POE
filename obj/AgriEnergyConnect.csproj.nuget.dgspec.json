@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\source\\repos\\AgriEnergyConnect\\AgriEnergyConnect.csproj": {}
+    "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-POE\\AgriEnergyConnect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\source\\repos\\AgriEnergyConnect\\AgriEnergyConnect.csproj": {
+    "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-POE\\AgriEnergyConnect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\source\\repos\\AgriEnergyConnect\\AgriEnergyConnect.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-POE\\AgriEnergyConnect.csproj",
         "projectName": "AgriEnergyConnect",
-        "projectPath": "C:\\Users\\lab_services_student\\source\\repos\\AgriEnergyConnect\\AgriEnergyConnect.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-POE\\AgriEnergyConnect.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\source\\repos\\AgriEnergyConnect\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-POE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
